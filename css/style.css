@@ -80,6 +80,7 @@ header .user img {
     width: 35px;
     height: 35px;
     object-fit: contain;
+    /* margin-right: 0px; */
 }
 
 header .user i {
@@ -271,8 +272,8 @@ header .toggle {
 }
 
 .video_items a img {
-    width: 295px;
-    height: 170px;
+    width: 395px;
+    height: 210px;
     object-fit: cover;
 }
 
@@ -347,8 +348,9 @@ header .toggle {
     }
 
     header .search {
-        width: 300px;
-        padding: 9px 12px;
+        width: 600px;
+        /* padding: 5px 12px; */
+        border-radius: 2%;
     }
 
     header #header-toggle {
