@@ -1,4 +1,3 @@
-
 const showMenu = (headerToggle, navbarId) => {
     const toggleBtn = document.getElementById(headerToggle);
     nav = document.getElementById(navbarId);
